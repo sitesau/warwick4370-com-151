@@ -1,0 +1,22 @@
+{
+  "wheel_id": 647,
+  "structure": "umbrella",
+  "slug": "warwick4370-com-151",
+  "project": "business-directory-warwick-2b1957c0a6b9e4511fa8a8f3a4ba76b4e4d7",
+  "parent_t1_ref": "warwick4370.com-005",
+  "node_role": "buffer",
+  "money_target": "warwick4370.com.au",
+  "primary_kw": "business directory warwick",
+  "intended_url": "https://sites-e470-2.web.app/business-directory-warwick-2b1957c0a6b9e4511fa8a8f3a4ba76b4e4d7/",
+  "tier": "T2",
+  "writeback_nonce": "971935c3e507d977",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/warwick4370.com-005/business-directory-warwick.html",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
